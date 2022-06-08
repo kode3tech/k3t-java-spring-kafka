@@ -3,7 +3,7 @@ kind: Template
 metadata:
   name: k3t-java-spring-kafka
   title: Java Spring Boot Kafka Consumer
-  description: 
+  description: Cria um serviço consumidor de kafka usando Java e Springboot framework
   tags:
     - java
     - kafka
@@ -11,7 +11,7 @@ metadata:
     - springboot
     - api
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: service
   parameters:
     - title: Provide some simple information
